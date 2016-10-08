@@ -1,0 +1,30 @@
+/*
+header {
+	color: rgb(128, 128,  0);
+	font-family: futura;
+}
+
+
+
+.niceParagraph {
+	background-color: grey;
+	font-family: "Baskerville";
+}
+
+#finalParagraph {
+  background-color: red;
+  font-family: "Baskerville";
+}
+
+p {
+	font-family: "century gothic";
+}*/
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "century gothic";
+	color: grey;
+}
+
+p, ul, ol {
+	font-family: "Courier New", Courier, monospace;
+}
