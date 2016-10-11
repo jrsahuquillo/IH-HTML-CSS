@@ -1,0 +1,57 @@
+header {
+	color: rgb(128, 128,  0);
+	font-family: Cambria, Georgia, serif;
+  	font-size: 40px;
+  	text-align: center;
+}
+
+.centeredElement {
+  width: 50%;
+  margin: auto;
+}
+
+.niceParagraph {
+	background-color: grey;
+	font-family: "Baskerville";
+}
+
+#finalParagraph {
+  background-color: red;
+  font-family: "Baskerville";
+}
+
+p {
+	font-family: "century gothic";
+}
+
+footer {
+	background-color: #444444;
+ 	padding: 30px 10px;
+  	border-top: 5px solid white;
+  	color: white;
+  	font-size: 10px;
+  	font-style: italic;
+  	width: 100%;
+}
+
+footer:hover {
+    background-color: #000000;
+}
+
+.articleContainer {
+  background-color: #FFFFFF;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.postAuthor {
+  font-size: 20px;
+}
+img {
+	float: right;
+	 -webkit-box-shadow:10px 5px 5px #888888;
+  -moz-box-shadow:10px 5px 5px #888888;
+  box-shadow:10px 5px 5px #888888;
+}
